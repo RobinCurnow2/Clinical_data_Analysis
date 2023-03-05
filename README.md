@@ -1,1 +1,2 @@
 # Clinical_data_Analysis
+Hypothetical analysis of breast cancer screening data for a hospital interested in potential factors affecting patient's descision to undergo breast cancer screening. This analysis was done as part of an assessment over a two day period as is uploaded here only to showcase my R programming and statistical analysis skills under a short time constraint. I fit a a logistic regression model to the data and explain the findings in Clinical_Analysis.docx. 
